@@ -8,15 +8,7 @@ The goal of quantum cryptography is to make it possible for two users to communi
 
 Stephen Weisner initially put out the idea of quantum cryptography in his early 1970s paper "Conjugate Coding". Two scientists, Bennet and Brassard, who were familiar with Weisner's theories, were prepared to submit their own ideas by the time the proposal was published in Sigact News in 1983. They created the "BB84," the first quantum cryptography protocol, in 1984. Based on this, the first experimental prototype was created in 1991. It worked across a 32-centimeter range. The technology has improved through time, and the distance has grown to km.
 
-> **State Vectors:** For n qubits, there are $2^n$ possible outcomes, and we can store these amplitudes in lists of length which we call vectors. Since these vectors describe the state of our qubits, we call them “state vectors”.
 
-> **Superpostition:** This is a quantum property that enables qubits to exist in multiple states at the same time. In quantum computing, superposition is used to perform calculations on multiple possible states simultaneously.
-
-> **Entanglement:** Entanglement is a phenomenon where two or more qubits become correlated in such a way that the state of one qubit is dependent on the state of another, even if they are physically separated. Entanglement is a crucial aspect of quantum computing, as it allows qubits to be interconnected in ways that classical bits cannot.
-
-> **Quantum gates:** Quantum gates are the equivalent of classical logic gates in quantum computing. They manipulate qubits, transforming their states based on quantum principles. Quantum gates are used to perform quantum operations on qubits, such as creating superpositions and entanglement.
-
-> **Quantum Circuits:** Quantum computations are represented as sequences of quantum gates, forming quantum circuits. These circuits describe the manipulation of qubits to perform specific tasks, similar to how classical algorithms are composed of logical operations.
 
 ## How classical bits are different from qubits?
 
